@@ -32,11 +32,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Flipkart Grid 4.0](https://github.com/keerthana0109/Price-comparison-app)
+- 🔭 I’m currently working on [Emotional Support]
 
 - 🌱 I’m currently learning **Flutter Framework, Neural Network, etc...**
 
-- 👨‍💻 All of my projects are available at [https://keerthi-portfolio.netlify.app/](https://keerthi-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://gowtham-tech-free-courses.streamlit.app/](https://gowtham-tech-free-courses.streamlit.app/)
 
 - 💬 Ask me about **Ml, Neural Network, Image preprocessing**
 
@@ -46,9 +46,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/keerthana3359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keerthana3359" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/keerthana-e/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/keerthana-e/" height="30" width="40" /></a>
-<a href="https://kaggle.com/keerthana.e cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="keerthana.e cse" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mystical_boy_25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mystical_boy_25" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gowtham-m-956363205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gowtham-m-956363205/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/gowtham2507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Gowtham" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
