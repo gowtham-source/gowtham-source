@@ -62,8 +62,7 @@ As a student, I'm always looking for opportunities to collaborate on research pr
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/GowthamM"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/GowthamM" /></a></p>
 
-![bmc_qr](https://user-images.githubusercontent.com/75899822/228756283-180b3071-c170-4c61-816a-05e7c1bf5c77.png)
-
+<img width=150 src="https://user-images.githubusercontent.com/75899822/228756283-180b3071-c170-4c61-816a-05e7c1bf5c77.png"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowtham-source&show_icons=true&locale=en&layout=compact" alt="gowtham-source" /></p>
 </br>
